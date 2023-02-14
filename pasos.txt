@@ -1,0 +1,6 @@
+Para empezar he tenido que crear de forma manual el repositorio en GitHub.
+Lo siguiente es conectarlos, que lo he realizado con el visual studio code.
+crear ramas y añadir un git.
+será añadida a la zona de intercambio y luego lo quitaremos para modificarlo.
+Confirmamos los cambios.
+publicar los cambios en el repositorio remoto.
